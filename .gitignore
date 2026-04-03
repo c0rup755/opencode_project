@@ -70,3 +70,5 @@ workspace/*.db
 
 # Logs
 *.log
+
+OpenManus/
